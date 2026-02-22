@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 .ipynb_checkpoints/
 *.csv
 2022-citibike-tripdata/
 Untitled*
+=======
+nyc_trips_kepler_map.html
+venv/
+>>>>>>> Ignore large Kepler HTML and venv
